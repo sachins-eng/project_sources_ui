@@ -11,6 +11,10 @@ Hey all, this was designed by [Jordan Hughes](https://dribbble.com/jordanhughes)
 - [TailwindCSS](https://tailwindcss.com/)
 - [Headless UI](https://headlessui.com/)
 
+### Demo
+
+Demo can be found here [Demo ui](https://projectsources.behonbaker.com/)
+
 ### Setup
 
 Make sure to install the dependencies:
