@@ -12,8 +12,8 @@
     "@kevinmarrec/nuxt-pwa": "^0.17.0",
     "@nuxtjs/tailwindcss": "^6.11.4",
     "monaco-editor": "^0.47.0",
-    "nuxt": "3.11.0",
-    "nuxt-headlessui": "^1.1.5",
+    "nuxt": "3.11.2",
+    "nuxt-headlessui": "^1.2.0",
     "nuxt-monaco-editor": "^1.2.7",
     "nuxt-svgo": "^1.2.1"
   },
